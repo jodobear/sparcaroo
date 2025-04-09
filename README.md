@@ -70,4 +70,4 @@ Now, enter the same prompt for simple app idea in both the projects and see if y
 
 **Example prompt:** `make a cli app to post GM fiatjaf`
 
-
+**LICENSE:** `GPL-2.0`
