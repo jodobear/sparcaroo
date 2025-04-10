@@ -1,5 +1,11 @@
 # Roo-Code Agents & MCP Setup
 
+## Credit
+
+All thanks to [Pablof7z](https://njump.me/nprofile1qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qpql2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqk8zeyq) who made this setup and gave the workshop at SEC.
+
+## Introduction
+
 Roo Code is an autonomous open-source AI agent designed to code, debug, and evolve software systems with minimal human input. Its like cursor, but unleashed. It is extremely customizable and here we are going to get it [OVER 9000!](https://www.youtube.com/watch?v=QsDDXSmGJZA).
 
 The following setup is to have [roocode](https://roocode.com/), ([github](https://github.com/RooVetGit/Roo-Code)) better agentic capabilities even for complex projects and augment it with MCP to provide domain specific context.
